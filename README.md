@@ -1,2 +1,2 @@
 # PlasticPollutions
-A web application that helps fight Plastic Pollutions 
+A web application design to help fight Plastic Pollutions 
